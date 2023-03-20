@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Shruti Gupta 
+# I am *Shruti Gupta*
 ## An aspiring technical engineer
 
 # 💫 About Me:
