@@ -3,7 +3,7 @@
 ## *An aspiring technical engineer*
 
 # 💫 About Me:
-Seeking for Technical Support role,<br>Eager to learn new technologies and prototype new ideas. <br>An enthusiast in doing hands on practical work. <br>Have capability to work in teams by providing valuable support. <br>Seeking to provide enhanced technical support to enterprise organizations. <br>Ability to learn new software and technologies quickly.
+Seeking for Technical field,<br>Eager to learn new technologies and prototype new ideas. <br>An enthusiast in doing hands on practical work. <br>Have capability to work in teams by providing valuable support. <br>Seeking to provide enhanced technical support to enterprise organizations. <br>Ability to learn new software and technologies quickly.
 
 
 ## 🌐 Socials:
